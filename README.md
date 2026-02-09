@@ -1,47 +1,89 @@
-# Introduction to GitHub
+<div align="center">
 
-_Get started using GitHub in less than an hour._
+# 🔮 Introduction to GitHub
 
-## Welcome
+**Start Your Developer Journey in Less Than an Hour**
 
-People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” exercise guides you through everything you need to start contributing in less than an hour.
+[![License](https://img.shields.io/github/license/skills/introduction-to-github?style=for-the-badge&color=blueviolet)](https://gh.io/mit)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github)](https://github.com/skills/introduction-to-github)
+[![Made by TSun](https://img.shields.io/badge/Made%20with%20🖤-%20by%20TSun-000000?style=for-the-badge)](https://linktr.ee/saeedxdie)
 
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
-- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-- **Prerequisites**: None. This exercise is a great introduction for your first day on GitHub.
-- **How long**: This exercise takes less than one hour to complete.
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj755fw9k/giphy.gif" width="200" alt="Coding Vibe" />
+</p>
 
-In this exercise, you will:
+---
 
-1. Create a branch
-2. Commit a file
-3. Open a pull request
-4. Merge your pull request
+### 🚀 **Welcome to the Game**
 
-### How to start this exercise
+GitHub sirf code host karne ki jagah nahi hai, ye wo jagah hai jahan duniya ki **most advanced technologies** build hoti hain. Whether you're visualizing data or building the next big game, GitHub is your playground.
 
-Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
+Ye "Introduction to GitHub" exercise tumhe **zero se hero** banayegi, wo bhi sirf ek ghante me. No boring lectures, seedha action.
 
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=introduction-to-github&owner=%40me&name=skills-introduction-to-github&description=Exercise:+Introduction+to+GitHub&visibility=public)
+</div>
+
+---
+
+## ⚡ **What's Inside?**
+
+| 🎯 **Target Audience** | 🧠 **Learning Goals** | 🛠️ **What You'll Build** |
+| :--- | :--- | :--- |
+| New developers, Students, & GitHub Newbies. | Repositories, Branches, Commits, Pull Requests. | A slick `profile README` for your personal brand. |
+
+> **Prerequisites:** None. Bas mood bana ke aana.
+> **Time Required:** Less than 1 hour.
+
+---
+
+## 🛣️ **Your Roadmap**
+
+Is exercise me hum ye 4 steps conquer karenge:
+
+1.  **Create a branch** (Apna alag rasta banao)
+2.  **Commit a file** (Changes save karo)
+3.  **Open a pull request** (Duniya ko dikhao)
+4.  **Merge your pull request** (Main project me shamil ho jao)
+
+---
+
+## 🎮 **How to Start**
+
+Ye process simple hai. Niche diye gaye button par click karo, aur apni favorite Octocat (Mona) ko **20 seconds** do taake wo tumhara lesson prepare kar sake. Phir page **refresh** karna mat bhoolna.
+
+<div align="center">
+
+[![Start Exercise](https://img.shields.io/badge/🔥%20Start%20Exercise-Click%20Here-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/new?template_owner=skills&template_name=introduction-to-github&owner=%40me&name=skills-introduction-to-github&description=Exercise:+Introduction+to+GitHub&visibility=public)
+
+</div>
 
 <details>
-<summary>Having trouble? 🤷</summary><br/>
+<summary><strong>🛑 Having trouble? (Yahan Click Karo)</strong></summary>
+<br/>
 
-When copying the exercise, we recommend the following settings:
+Agar cheezein work nahi kar rahi, to ye try karo:
 
-- For owner, choose your personal account or an organization to host the repository.
-
-- We recommend creating a public repository, since private repositories will use Actions minutes.
-
-If the exercise isn't ready in 20 seconds, please check the [Actions](../../actions) tab.
-
-- Check to see if a job is running. Sometimes it simply takes a bit longer.
-
-- If the page shows a failed job, please submit an issue. Nice, you found a bug! 🐛
+- **Owner:** Apna personal account choose karo.
+- **Visibility:** **Public** repository banao (Private me Actions minutes waste mat karo).
+- Agar 20 seconds baad bhi ready na ho, to **[Actions](../../actions)** tab check karo.
+- Koi failed job dikhe? To issue submit karo. Nice catch, bug hunter! 🐛
 
 </details>
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+<div align="center">
+
+### 🌐 **Connect with 𝙎ค૯𝙀𝘿✘🫀**
+
+<a href="https://linktr.ee/saeedxdie">
+  <img src="https://img.shields.io/badge/Linktree-TSun%20Portfolio-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+</a>
+<a href="https://gravatar.com/cheerfuld27b01881a">
+  <img src="https://img.shields.io/badge/Gravatar-My%20Profile-1E8CBE?style=for-the-badge&logo=gravatar&logoColor=white" />
+</a>
+
+<br />
+
+&copy; 2025 GitHub • [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) • [MIT License](https://gh.io/mit)
+
+</div>
